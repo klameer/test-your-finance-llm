@@ -1,0 +1,4 @@
+# Byte-exact repository: no end-of-line conversion, ever.
+# The pack and the result bundles are hash-verified (pack/SHA256SUMS.txt,
+# results/*/checksums.json); any eol rewrite would break verification.
+* -text
